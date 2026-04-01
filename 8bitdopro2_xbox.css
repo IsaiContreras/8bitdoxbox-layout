@@ -107,6 +107,7 @@
 .custom .back {
     background: url(start-select.svg);
     background-repeat: no-repeat;
+    background-position-y: -21;
     width: 18px;
     height: 18px;
     opacity: 0;
@@ -115,6 +116,7 @@
     background: url(start-select.svg);
     background-repeat: no-repeat;
     background-position-x: 6px;
+    background-position-y: -21;
     width: 18px;
     height: 18px;
     opacity: 0;
