@@ -101,13 +101,13 @@
     width: 216px;
     height: 36px;
     top: 150px;
-    left: 190px;
+    left: 188px;
 }
 
 .custom .back {
     background: url(start-select.svg);
     background-repeat: no-repeat;
-    background-position-y: 18px;
+    background-position-y: -21px;
     width: 18px;
     height: 18px;
     opacity: 0;
@@ -115,7 +115,7 @@
 .custom .start {
     background: url(start-select.svg);
     background-repeat: no-repeat;
-    background-position-y: 18px;
+    background-position: -22px -21px;
     width: 18px;
     height: 18px;
     opacity: 0;
