@@ -107,16 +107,17 @@
 .custom .back {
     background: url(start-select.svg);
     background-repeat: no-repeat;
-    width: 40px;
-    height: 36px;
+    background-position: 1px 21px;
+    width: 18px;
+    height: 18px;
     opacity: 0;
 }
 .custom .start {
     background: url(start-select.svg);
     background-repeat: no-repeat;
-    background-position-x: 6px;
-    width: 46px;
-    height: 12px;
+    background-position: 22px 21px;
+    width: 18px;
+    height: 18px;
     opacity: 0;
 }
 .custom .back.pressed, .start.pressed {
@@ -125,7 +126,6 @@
 
 .custom .back {
     float: left;
-	margin-right: -5px;
 }
 
 .custom .start {
