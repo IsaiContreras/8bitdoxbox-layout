@@ -113,7 +113,6 @@
     opacity: 0;
 }
 .custom .start {
-	position: absolute;
     background: url(start-select.svg);
     background-repeat: no-repeat;
     background-position-y: 18px;
