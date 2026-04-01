@@ -127,11 +127,10 @@
 
 .custom .back {
     float: left;
-	margin-right: -5px;
 }
 
 .custom .start {
-    float: left;
+    float: right;
 }
 
 .custom .abxy {
